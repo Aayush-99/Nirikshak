@@ -9,7 +9,7 @@ This would help the authorities monitoring the potentially crowded areas to easi
 * [General Info](#generalinfo)
 * [Technology Used](#technology)
 * [Detectron 2](#FAIR)
-* [Further Improvements](#improvements)
+* [Further Improvements](#future_improvements)
 
 ## General Info
 Social Distancing – the term that has taken the world by storm and is transforming the way we live. Social distancing has become a mantra around the world, transcending languages and cultures.
